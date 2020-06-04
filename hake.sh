@@ -1,5 +1,6 @@
 #!/bin/bash
 # Author : Hiro-Hiro ID
+clear
 echo "|------------------------------------------|"
 sleep 1
 echo "     TOOLS HACK FB TARGET BY HIRO ID        "
